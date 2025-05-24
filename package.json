@@ -2,10 +2,9 @@
   "name": "app-name",
   "private": true,
   "version": "1.0.0",
-  "engines": {
-    "node": "22.x"
-    "npm": ">=6"
-  },
+"engines": {
+  "node": "22.x"
+}
   "dependencies": {
     "@testing-library/jest-dom": "5.11.9",
     "@testing-library/react": "11.2.5",

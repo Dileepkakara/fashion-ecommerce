@@ -69,5 +69,9 @@
       "Firefox ESR",
       "not ie < 11"
     ]
+  },
+  "vercel.json": {
+    "installCommand": "pnpm install --no-frozen-lockfile",
+    "buildCommand": "pnpm run build"
   }
 }
